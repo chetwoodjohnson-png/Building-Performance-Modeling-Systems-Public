@@ -1,0 +1,6 @@
+/* Tenant theming variables */
+:root{
+  --brand-primary:#273D95;
+  --brand-accent:#EDB548;
+  --brand-text:#111827;
+}
